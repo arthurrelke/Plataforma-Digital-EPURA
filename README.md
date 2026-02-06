@@ -1,8 +1,7 @@
 # Plataforma-Digital-EPURA
 This project provides an advanced 3D mapping interface for the Epura Observatory, featuring geographic data visualization with interactive filters, thematic layers, and detailed property information. Built with MapLibre GL JS and MapTiler, it enables researchers and users to explore urban patterns, vacant lots, and property data.
 
-DEMONSTRATION: https://portfolio.adobe.com/02a1f3d9-7958-4135-bbdf-536edaa24bd5/preview/plataforma-digital
-
+DEMONSTRATION: portfolio-seven-umber-ldnh0lh5ob.vercel.app/project/plataforma-epura
 # 🗺️ Epura Observatory - Interactive Map Platform
 
 A web-based interactive mapping platform for urban analysis and research visualization, focusing on the Cuiabá metropolitan area in Mato Grosso, Brazil.
